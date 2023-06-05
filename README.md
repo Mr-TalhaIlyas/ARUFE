@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMr-TalhaIlyas%2FARUFE&count_bg=%233DC894&title_bg=%23555555&icon=adguard.svg&icon_color=%2300FF8F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # Adaptive Recognition of Unseen Farm Environments (ARUFE)
 
 ![alt text](https://github.com/Mr-TalhaIlyas/ARUFE/blob/main/screens/figure%201.jpg)
